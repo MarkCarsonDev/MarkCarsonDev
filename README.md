@@ -4,11 +4,10 @@
 <h1 align="center">Hi, I'm <span><strong>Mark Carson</strong></span></h1>
 <h3 align="center">A full-stack developer, data scientist, and researcher from California.</h3>
 <p align="center">I'm currently a student pursuing my Bachelor of Science in Computer Science from CSU Long Beach. 
- <br>I'm passionate about applications of machine learning, notably when in sustainability, ecology, and environmental efforts. 
- <br>As a serial hobbyist, I consistenly keep busy by learning new things.
+ <br>I'm passionate about applications of machine learning, notably those in sustainability, ecology, and environmental efforts.
 </p>
 
-<p align="center">When I'm not programming, you can find me reading, taking up a new instrument or craft, and discussing big ideas with friends.</p>
+<p align="center">As a serial hobbyist, I consistenly keep busy by learning new things. When I'm not programming, you can find me reading, taking up a new instrument or craft, and discussing big ideas with friends.</p>
 
 <p align="center"></a> <a href="https://www.linkedin.com/in/MarkCarsonDev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
