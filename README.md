@@ -22,9 +22,6 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/MarkCarsonDev"><img src="https://img.shields.io/github/followers/MarkCarsonDev?style=social"></a>
-</p>
-<p align="center">
  <img src="https://img.shields.io/badge/Machine Learning-229a22"> 
  <img src="https://img.shields.io/badge/Deep Learning-21aa33"> 
  <img src="https://img.shields.io/badge/Full--Stack Web Development-20ab40"> 
