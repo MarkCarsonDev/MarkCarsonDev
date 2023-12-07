@@ -15,21 +15,21 @@
 
 <p align=center>
   <a href="https://github.com/MarkCarsonDev">
-    <img src="https://badges.pufler.dev/visits/MarkCarsonDev/MarkCarsonDev?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/MarkCarsonDev/MarkCarsonDev?style=flat-square&Views&color=black&logo=github">
   </a>
   <a href="https://github.com/MarkCarsonDev?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/MarkCarsonDev?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/MarkCarsonDev?style=flat-square&color=black">
   </a>
 </p>
 <p align="center">
 <a href="https://github.com/MarkCarsonDev"><img src="https://img.shields.io/github/followers/MarkCarsonDev?style=social"></a>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Machine Learning-22aa22"> 
- <img src="https://img.shields.io/badge/Deep Learning-21ba33"> 
- <img src="https://img.shields.io/badge/Full--Stack Web Development-20bb40"> 
- <img src="https://img.shields.io/badge/Software Engineering-1fc055"> 
- <img src="https://img.shields.io/badge/Project Management-1ec465"> 
+ <img src="https://img.shields.io/badge/Machine Learning-229a22"> 
+ <img src="https://img.shields.io/badge/Deep Learning-21aa33"> 
+ <img src="https://img.shields.io/badge/Full--Stack Web Development-20ab40"> 
+ <img src="https://img.shields.io/badge/Software Engineering-1fb055"> 
+ <img src="https://img.shields.io/badge/Project Management-1eb425"> 
 </p>
 <hr>
 
