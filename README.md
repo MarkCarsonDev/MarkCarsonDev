@@ -14,11 +14,11 @@
 </p>
 
 <p align=center>
-  <a href="https://github.com/MarkCarsonDev">
-    <img src="https://badges.pufler.dev/visits/MarkCarsonDev/MarkCarsonDev?style=flat-square&Views&color=black&logo=github">
+  <a href="https://github.com/MarkCarsonDev" style="text-decoration: none">
+    <img src="https://badges.pufler.dev/visits/MarkCarsonDev/MarkCarsonDev?style=flat-square&label=Views&color=black">
   </a>
-  <a href="https://github.com/MarkCarsonDev?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/MarkCarsonDev?style=flat-square&color=black">
+  <a href="https://github.com/MarkCarsonDev?tab=repositories" style="text-decoration: none">
+    <img src="https://badges.pufler.dev/repos/MarkCarsonDev?style=flat-square&color=black&label=Public+Repos">
   </a>
 </p>
 <p align="center">
