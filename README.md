@@ -2,10 +2,12 @@
  <!-- <img  width="800" height="400" src="gifpath"> -->
 </p>
 <h1 align="center">Hi, I'm <span><strong>Mark Carson</strong></span></h1>
-<h3 align="center">A full-stack developer, data scientist, and researcher from California.</h3>
-<p align="center">I'm currently a student pursuing my Bachelor of Science in Computer Science from CSU Long Beach. 
- <br>I'm passionate about applications of machine learning, notably those in sustainability, ecology, and environmental efforts.
+<h3 align="center">A data scientist, full-stack developer, and researcher from California.</h3>
+<p align="center">I'm currently a student pursuing my Bachelor's in Computer Science from CSU Long Beach. 
+ <br>I'm passionate about applications of machine learning and data science, notably those in sustainability, ecology, and environmental efforts.
 </p>
+
+<p align="center">Currently employed as a Data Science Intern at Divergent3D in Torrance, CA.</p>
 
 <p align="center">As a serial hobbyist, I consistently keep busy by learning new things. When I'm not programming, you can find me reading, practicing a new instrument or craft, and discussing big ideas with friends.</p>
 
