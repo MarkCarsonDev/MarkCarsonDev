@@ -11,6 +11,8 @@
 
 <p align="center">As a serial hobbyist, I consistently keep busy by learning new things. When I'm not programming, you can find me reading, practicing a new instrument or craft, and discussing big ideas with friends.</p>
 
+<p>Majority of my commits are to private projects in private repositories, please reach out for more information on those.</p>
+
 <p align="center"></a> <a href="https://www.linkedin.com/in/MarkCarsonDev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
