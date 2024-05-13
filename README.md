@@ -25,11 +25,12 @@
   </a>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Machine Learning-229a22"> 
- <img src="https://img.shields.io/badge/Deep Learning-21aa33"> 
+ <img src="https://img.shields.io/badge/Data Science-229a22">
+ <img src="https://img.shields.io/badge/Data Analytics-229a22">
+ <img src="https://img.shields.io/badge/Data Engineering-229a22">
+ <img src="https://img.shields.io/badge/Machine Learning-229a22">
  <img src="https://img.shields.io/badge/Full--Stack Web Development-20ab40"> 
  <img src="https://img.shields.io/badge/Software Engineering-1fb055"> 
- <img src="https://img.shields.io/badge/Project Management-1eb425"> 
 </p>
 <hr>
 
