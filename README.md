@@ -7,8 +7,6 @@
  <br>I'm passionate about applications of machine learning and data science, notably those in sustainability, ecology, and environmental efforts.
 </p>
 
-<p align="center">Currently employed as a Data Scientist Intern at Divergent3D in Torrance, CA.</p>
-
 <p align="center">As a serial hobbyist, I consistently keep busy by learning new things. When I'm not programming, you can find me reading, practicing a new instrument or craft, and discussing big ideas with friends.</p>
 
 <p>Majority of my commits are to private projects in private repositories, please reach out for more information on those.</p>
