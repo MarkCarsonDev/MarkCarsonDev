@@ -7,9 +7,9 @@
  <br>I'm passionate about applications of computation and data science, notably those in sustainability, ecology, and environmental efforts.
 </p>
 
-<p align="center">As a serial hobbyist, I consistently keep busy by learning new things. When I'm not programming, you can find me reading, practicing a new instrument or craft, and tinkering around with whatever I can.</p>
+<p align="center">Outside of programming, I love learning new things and hobbies. I'm likely cooking, playing piano, or staying active.</p>
 
-<p>Majority of my commits are to private projects in private repositories, please reach out for more information on those.</p>
+<p>Majority of my commits are to private projects in private repositories, if curious, please reach out for more information on those.</p>
 
 <p align="center"></a> <a href="https://www.linkedin.com/in/MarkCarsonDev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
@@ -25,10 +25,9 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Data Science-229a22">
  <img src="https://img.shields.io/badge/Data Analytics-229a22">
- <img src="https://img.shields.io/badge/Data Engineering-229a22">
+ <img src="https://img.shields.io/badge/Software-Engineering-229a22">
  <img src="https://img.shields.io/badge/Machine Learning-229a22">
  <img src="https://img.shields.io/badge/Full--Stack Web Development-20ab40"> 
- <img src="https://img.shields.io/badge/Software Engineering-1fb055"> 
 </p>
 <hr>
 
