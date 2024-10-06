@@ -25,7 +25,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Data Science-229a22">
  <img src="https://img.shields.io/badge/Data Analytics-229a22">
- <img src="https://img.shields.io/badge/Software-Engineering-229a22">
+ <img src="https://img.shields.io/badge/Software Engineering-229a22">
  <img src="https://img.shields.io/badge/Machine Learning-229a22">
  <img src="https://img.shields.io/badge/Full--Stack Web Development-20ab40"> 
 </p>
