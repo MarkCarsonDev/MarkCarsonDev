@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hi, I'm <span><strong>Mark Carson</strong></span></h1>
 <h3 align="center">A data scientist, full-stack developer, and environmentalist from California.</h3>
-<p align="center">I'm currently a student pursuing my Bachelor's in Computer Science from CSU Long Beach. 
+<p align="center">I've just completed B.Sc. in Computer Science from CSU, Long Beach. 
  <br>I'm passionate about applications of computation and data science, notably those in sustainability, ecology, and environmental efforts.
 </p>
 
-<p align="center">Outside of programming, I love learning new things and hobbies. I'm likely cooking, playing piano, or staying active.</p>
+<p align="center">Outside of programming, I love learning new things and hobbies. I'm likely cooking, playing piano, or staying active by climbing and biking.</p>
 
-<p>Majority of my commits are to private projects in private repositories, if curious, please reach out for more information on those.</p>
+<p>Majority of my commits are to private projects in private repositories. If you're curious, please reach out for more information on those.</p>
 
 <p align="center"></a> <a href="https://www.linkedin.com/in/MarkCarsonDev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
